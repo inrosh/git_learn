@@ -5,3 +5,5 @@
 5.What levels of testing do you know?
 6.What test design techniques do you know?
 7.What is the technique of analysis of class of equivalent?
+8.Що таке техніка аналізу граничних значень? У чому цінність цієї техніки?
+9.Що таке Regression і Confirmation тестування, яка між ними різниця?
