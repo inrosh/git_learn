@@ -1,7 +1,7 @@
-1. What is testing?
-2. Why test the software?
-3. What are the test stages?
-4. What types of testing can be called?
-5. What levels of testing do you know?
-6. What test design techniques do you know?
-7. What is the technique of analysis of class of equivalent?
+1.Що таке тестування?
+2.Навіщо тестувати ПЗ?
+3.Які є етапи тестування?
+4.Які типи тестування можете назвати?
+5.What levels of testing do you know?
+6.What test design techniques do you know?
+7.What is the technique of analysis of class of equivalent?
