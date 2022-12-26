@@ -14,3 +14,8 @@ some content here
 11.Які бувають види інтеграційного тестування?
 12.Що таке Configuration testing?
 13.Що таке Exploratory testing?
+
+14.Які існують UI-стандарти?
+15.Що таке Black/Grey/White Box Testing?
+16.Що таке Performance Testing?
+17.Що таке Smoke та Sanity тестування і яка між ними різниця?
