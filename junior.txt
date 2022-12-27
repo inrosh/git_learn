@@ -17,3 +17,9 @@
 15.Що таке Black/Grey/White Box Testing?
 16.Що таке Performance Testing?
 17.Що таке Smoke та Sanity тестування і яка між ними різниця?
+18.Що таке Traceability Matrix?
+19.Що таке Sanity Testing?
+20.Що таке End-to-End тест?
+21.Що таке тестування безпеки?
+22.Що таке випробування на основі ризиків?
+23.Що таке динамічне тестування?
